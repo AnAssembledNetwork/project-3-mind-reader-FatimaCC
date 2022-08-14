@@ -7,6 +7,6 @@
 of the digits in their guess correct. Once they guessed the random number the program will ask them if they would like to play 
 again, if they want to play again the program resets and starts a new  game with a new random number,but if they don't want 
 to play again the program stops and prints them a farewell statement.
-This project rellay help me to have a better understanding of how for loops work and how they can be very helpful when 
+This project really help me to have a better understanding of how for loops work and how they can be very helpful when 
 creating a program like this where you might require a tool to check every character of a string for a specific number of times.
 
